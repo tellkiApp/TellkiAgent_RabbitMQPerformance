@@ -2,7 +2,7 @@
 	"author": "guberni",
 	"name": "tellki-rabbitmq-performance-monitor",
 	"description": "Tellki RabbitMQ performance monitor",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"keywords": ["tellki","monitor","rabbitmq","performance","real time"],
 	"homepage": "www.tellki.com",
 	"repository" : { 
